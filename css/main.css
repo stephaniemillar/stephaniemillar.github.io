@@ -30,6 +30,10 @@ body {
 	-moz-border-radius: 0px;
 }
 
+	.navbar-default active {
+		border-top: solid 2px white;
+	}
+
 	.navbar-default a {
 		color: #f6f6f6;
 	}
