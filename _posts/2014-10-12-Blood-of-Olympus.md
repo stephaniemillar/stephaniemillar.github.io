@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The House of Hades"
+title: "The Blood of Olympus"
 ---
 
 [![_config.yml]({{ site.baseurl }}/images/posts/house_of_hades.jpg)](http://www.amazon.com/gp/product/1423146727/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1423146727&linkCode=as2&tag=stephmilla-20&linkId=MO4QZDJZZMZXIGJH)
