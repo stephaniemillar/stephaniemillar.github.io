@@ -1,10 +1,10 @@
 # Permalinks
-permalink:        	pretty
+permalink:           pretty
 relative_permalinks: true
 
 # Setup
 title:            Stephanie Millar
-tagline:          Smart rhino
+tagline:          
 url:              http://stephaniemillar.github.io/
 paginate:         1
 baseurl:          /
