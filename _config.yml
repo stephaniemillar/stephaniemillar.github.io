@@ -6,7 +6,7 @@ relative_permalinks: true
 title:            Stephanie Millar
 tagline:          
 url:              http://stephaniemillar.github.io/
-paginate:         1
+paginate:         3
 baseurl:          /
 author:
   name:           Stephanie Millar
