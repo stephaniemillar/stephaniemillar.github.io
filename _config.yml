@@ -1,19 +1,14 @@
 # Permalinks
-permalink:        pretty
+permalink:        	pretty
 relative_permalinks: true
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-url:              http://getpoole.com
+title:            Stephanie Millar
+tagline:          Smart rhino
+url:              http://stephaniemillar.github.io/
 paginate:         1
 baseurl:          /
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
-
-# Custom vars
-version:          1.0.0
-github:
-  repo:           https://github.com/poole/poole
+  name:           Stephanie Millar
+  url:            https://twitter.com/stephiemillar
+  email:          stephanienmillar@gmail.com
