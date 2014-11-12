@@ -34,7 +34,7 @@
 
 	.navigation_links {
 		width: 45%; /* Fallback if needed */
-		width: calc(50% - (98px + 35px));
+		width: calc(50% - (98px + 30px)); /* The last px value is padding */
 		height: 100%;
 	}
 
@@ -48,7 +48,7 @@
 			display: inline-block;
 
 			width: 33%;
-			line-height: 59px; /* Half of the navigation height */
+			line-height: 118px; /* Same as the navigation height */
 			text-align: center;
 		}
 
