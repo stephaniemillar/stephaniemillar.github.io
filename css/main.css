@@ -9,6 +9,10 @@
 	background-color: #000000;
 }
 
+	#navigation a {
+		color: #000000;
+	}
+
 	#logo {
 		position: absolute;
 		left: 50%;
