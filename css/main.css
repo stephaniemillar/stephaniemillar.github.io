@@ -9,17 +9,23 @@
 	background-color: #000000;
 }
 
-	#left_nav {
-		position: absolute;
-		left: 0px;
-		top: 0px;
+	#left_nav, #right_nav {
+		display: none;
 	}
 
-	#right_nav {
+	#hamburger {
 		position: absolute;
 		right: 0px;
 		top: 0px;
+		width: 100px;
+		height: 100px;
+
+		border: solid 2px #ffffff;
 	}
+
+		#hamburger_menu {
+			display: none;
+		}
 
 	#logo {
 		position: absolute;
@@ -32,7 +38,7 @@
 		margin-left: -98px;
 	}
 
-@media (min-width: 38em) { /* This is the desktop version and above is mobile */
+@media (min-width: 50em) { /* This is the desktop version and above is mobile */
 	#navigation {
 		position: absolute;
 		left: 0px;
@@ -43,6 +49,10 @@
 
 		background-color: #000000;
 	}
+
+		#hamburger, #hamburger_menu {
+			display: none;
+		}
 
 		#left_nav {
 			position: absolute;
