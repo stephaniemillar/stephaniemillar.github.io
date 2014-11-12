@@ -54,8 +54,8 @@
 			#hamburger_menu li {
 				display: inline-block;
 
-				width: 33%;
-				line-height: 30px; /* Same as the navigation height */
+				width: 100%;
+				line-height: 55px; /* Same as the navigation height */
 				text-align: center;
 			}
 
