@@ -18,10 +18,12 @@
 		cursor: pointer;
 
 		position: absolute;
-		right: 0px;
-		top: 0px;
+		right: 15px;
+		top: 50%;
 		width: 42px;
 		height: 42px;
+
+		margin-top: -21px;
 
 		-webkit-border-radius: 20px;
 		-moz-border-radius: 20px;
@@ -29,28 +31,31 @@
 	}
 
 		.patty {
-			width: 30px;
-			height: 6px;
+			width: 24px;
+			height: 4px;
+
+			margin-left: -12px;
+			margin-top: -2px;
 
 			background-color: #ffffff;
 		}
 
 		#patty_top {
 			position: absolute;
-			top: 6px;
-			left: 6px;
+			top: 35%;
+			left: 50%;
 		}
 
 		#patty_middle {
 			position: absolute;
-			top: 18px;
-			left: 6px;
+			top: 50%;
+			left: 50%;
 		}
 
 		#patty_bottom {
 			position: absolute;
-			top: 30px;
-			left: 6px;
+			top: 85%;
+			left: 50%;
 		}
 
 		#hamburger_menu {
