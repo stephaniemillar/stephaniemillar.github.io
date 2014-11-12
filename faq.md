@@ -1,3 +1,8 @@
+---
+layout: page
+title: About
+---
+
 **Why do you read?**
 
 Books have been my world since I learned how to read. I remember as a child going to the public library every single week and checking out the maximum amount of books (50) every single time. I would get home and go through book after book after book, soaking in every word, never wanting it to end. Books were and are my life. There have been times in my life where I haven’t had any friends to turn to, but books have always been there. They open our minds and allow us to be someone else. To feel what someone else feels, see what someone else sees. I love how we can learn things and gain experience from books while never leaving the safety of the real world. We can know what it’s like to travel to another world, or to sword fight, or to captain a ship without actually doing it. More importantly, we can feel things in books. We can gain sympathy towards others as we learn to understand the world from different perspectives and empathize with characters who deal with the same struggles that we do. Books give us the best and worst of our world and make us confront it all, which is why we all love books so much. We make books, and books make us.
