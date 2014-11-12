@@ -15,9 +15,9 @@
 
 	#navigation_links {
 		position: absolute;
-		left: 0px;
+		left: 2%;
 		top: 0px;
-		width: 100%;
+		width: 98%;
 		height: auto;
 	}
 
@@ -30,7 +30,7 @@
 		#navigation_links li {
 			display: inline-block;
 
-			width: 16.6%;
+			width: 16%;
 			text-align: center;
 		}
 
