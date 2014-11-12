@@ -3,7 +3,7 @@ layout: default
 title: Categories
 ---
 
-{% for category in site.categories %}
+{% for reviews in site.categories %}
   <li><a name="{{ category | first }}">{{ category | first }}</a>
     <ul>
     {% for posts in category %}
