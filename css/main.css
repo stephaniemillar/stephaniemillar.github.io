@@ -22,7 +22,7 @@
 	}
 
 	.navigation_links {
-		width: 40%;
+		width: 42%;
 		height: auto;
 	}
 
@@ -35,7 +35,7 @@
 		.navigation_links li {
 			display: inline-block;
 
-			width: 33%;
+			width: 14%;
 			text-align: center;
 		}
 
