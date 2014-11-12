@@ -21,14 +21,21 @@
 		height: 40px;
 
 		border: solid 2px #ffffff;
-		color: #ffffff;
-		font-size: 40px;
-		text-align: center;
-
+		
 		-webkit-border-radius: 5px;
 		-moz-border-radius: 5px;
 		border-radius: 5px;
 	}
+
+		#hamburger_symbol {
+			position: absolute;
+			left: 0px;
+			top: -20px;
+
+			color: #ffffff;
+			font-size: 40px;
+			text-align: center;
+		}
 
 		#hamburger_menu {
 			display: none;
