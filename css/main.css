@@ -21,8 +21,17 @@
 		height: auto;
 	}
 
+		#navigation_links ul {
+			margin: 0px;
+			padding: 0px;
+			list-style: none;
+		}
+
 		#navigation_links li {
-			display: inline;
+			display: inline-block;
+
+			width: 16.6%;
+			text-align: center;
 		}
 
 	#logo {
