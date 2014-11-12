@@ -4,11 +4,7 @@ title: Categories
 ---
 
 <div class="posts">
-	{% for cat in site.categories %}
-		<li>{{ cat[0] }}</li>
-
-		{% for post in site.categories.review %}
-			{{ post.content | truncatewords: 150}} <a href="{{ post.url }}">(continue reading)</a>
-		{% endfor %}
+	{% for post in site.categories.review %}
+		{{ post.content | truncatewords: 150}} <a href="{{ post.url }}">(continue reading)</a>
 	{% endfor %}
 </div>
