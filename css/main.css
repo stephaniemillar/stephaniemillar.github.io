@@ -13,6 +13,18 @@
 		color: #000000;
 	}
 
+	#navigation_links {
+		position: absolute;
+		left: 0px;
+		top: 0px;
+		width: 100%;
+		height: auto;
+	}
+
+		#navigation_links li {
+			display: inline;
+		}
+
 	#logo {
 		position: absolute;
 		left: 50%;
