@@ -15,7 +15,7 @@
 
 	#hamburger {
 		display: block;
-		
+
 		position: absolute;
 		right: 39px;
 		top: 39px;
@@ -34,7 +34,13 @@
 	}
 
 		#hamburger_menu {
-			display: none;
+			position: absolute;
+			left: 0px;
+			top: 0px;
+			width: 100%;
+			height: auto;
+
+			background-color: #000000;
 		}
 
 	#logo {
@@ -60,7 +66,7 @@
 		background-color: #000000;
 	}
 
-		#hamburger, #hamburger_menu {
+		#hamburger {
 			display: none;
 		}
 
@@ -94,7 +100,7 @@
 
 	.navigation_links {
 		width: 45%; /* Fallback if needed */
-		width: calc(50% - (98px + 30px)); /* The last px value is padding */
+		width: calc(50% - (98px + 25px)); /* The last px value is padding */
 		height: 100%;
 	}
 
