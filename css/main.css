@@ -9,14 +9,10 @@
 	background-color: #000000;
 }
 
-	#navigation a {
-		color: #000000;
-	}
-
 	#navigation_links {
 		position: absolute;
 		left: 2%;
-		top: 0px;
+		top: 2%;
 		width: 98%;
 		height: auto;
 	}
@@ -33,6 +29,10 @@
 			width: 16%;
 			text-align: center;
 		}
+
+			#navigation_links a {
+				color: #ffffff;
+			}
 
 	#logo {
 		position: absolute;
