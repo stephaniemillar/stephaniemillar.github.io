@@ -20,22 +20,37 @@
 		position: absolute;
 		right: 0px;
 		top: 0px;
-		width: 40px;
-		height: 40px;
-
-		color: #ffffff;
-		font-size: 48px;
-		line-height: 100%;
-		text-align: center;
+		width: 42px;
+		height: 42px;
 
 		-webkit-border-radius: 20px;
 		-moz-border-radius: 20px;
 		border-radius: 20px;
 	}
 
-		#hamburger:hover {
+		.patty {
+			width: 30px;
+			height: 6px;
+
 			background-color: #ffffff;
-			color: #000000;
+		}
+
+		#patty_top {
+			position: absolute;
+			top: 6px;
+			left: 6px;
+		}
+
+		#patty_middle {
+			position: absolute;
+			top: 18px;
+			left: 6px;
+		}
+
+		#patty_bottom {
+			position: absolute;
+			top: 30px;
+			left: 6px;
 		}
 
 		#hamburger_menu {
