@@ -30,10 +30,13 @@
 		#hamburger_symbol {
 			position: absolute;
 			left: 0px;
-			top: -20px;
+			top: 0px;
+			width: 100%;
+			height: 100%;
 
 			color: #ffffff;
-			font-size: 40px;
+			font-size: 45px;
+			line-height: 45px;
 			text-align: center;
 		}
 
