@@ -14,6 +14,8 @@
 	}
 
 	#hamburger {
+		display: block;
+		
 		position: absolute;
 		right: 39px;
 		top: 39px;
@@ -63,6 +65,8 @@
 		}
 
 		#left_nav {
+			display: block;
+
 			position: absolute;
 			left: 0px;
 			top: 0px;
@@ -80,6 +84,8 @@
 		}
 
 		#right_nav {
+			display: block;
+
 			position: absolute;
 			right: 0px;
 			top: 0px;
