@@ -15,6 +15,7 @@
 
 	#hamburger {
 		display: block;
+		cursor: pointer;
 
 		position: absolute;
 		right: 39px;
@@ -32,6 +33,11 @@
 		-moz-border-radius: 5px;
 		border-radius: 5px;
 	}
+
+		#hamburger:hover {
+			background-color: #ffffff;
+			color: #000000;
+		}
 
 		#hamburger_menu {
 			position: absolute;

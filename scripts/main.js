@@ -1,9 +1,18 @@
-var showMenu = function()
+var toggleMenu = function()
 {
-	document.getElementById('hamburger_menu').style.display = 'block'
-}
+	var button = document.getElementById('hamburger')
+	var menu = document.getElementById('hamburger_menu')
 
-var hideMenu = function()
-{
-	document.getElementById('hamburger_menu').style.display = 'none'
+	if (menu.style.display == 'none')
+	{
+		menu.style.display = 'block'
+		button.style.backgroundColor = '#ffffff'
+		button.style.color = '#000000'
+	}
+	else
+	{
+		menu.style.display = 'none'
+		button.style.backgroundColor = '#000000'
+		button.style.color = '#ffffff'
+	}
 }
