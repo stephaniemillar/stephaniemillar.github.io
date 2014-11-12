@@ -42,16 +42,14 @@
 			margin: 0px;
 			padding: 0px;
 			list-style: none;
-			
-			display: table-cell;
-    		vertical-align: middle;
-    		text-align: center;
 		}
 
 		.navigation_links li {
 			display: inline-block;
 
 			width: 33%;
+			line-height: 59px; /* Half of the navigation height */
+			text-align: center;
 		}
 
 			.navigation_links a {
