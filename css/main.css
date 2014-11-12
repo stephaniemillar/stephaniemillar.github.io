@@ -9,28 +9,37 @@
 	background-color: #000000;
 }
 
-	#navigation_links {
+	#left_nav {
 		position: absolute;
-		left: 2%;
-		top: 2%;
-		width: 98%;
+		left: 0px;
+		top: 0px;
+	}
+
+	#right_nav {
+		position: absolute;
+		right: 0px;
+		top: 0px;
+	}
+
+	.navigation_links {
+		width: 40%;
 		height: auto;
 	}
 
-		#navigation_links ul {
+		.navigation_links ul {
 			margin: 0px;
 			padding: 0px;
 			list-style: none;
 		}
 
-		#navigation_links li {
+		.navigation_links li {
 			display: inline-block;
 
-			width: 16%;
+			width: 33%;
 			text-align: center;
 		}
 
-			#navigation_links a {
+			.navigation_links a {
 				color: #ffffff;
 			}
 
