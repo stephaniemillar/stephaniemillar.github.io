@@ -53,5 +53,7 @@
 		}
 
 			.navigation_links a {
+				display: block;
+
 				color: #ffffff;
 			}
