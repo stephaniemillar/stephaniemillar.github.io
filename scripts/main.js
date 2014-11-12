@@ -1,5 +1,6 @@
 var toggleMenu = function()
 {
+	var patties = document.querySelectorAll('.patty')
 	var button = document.getElementById('hamburger')
 	var menu = document.getElementById('hamburger_menu')
 
@@ -7,12 +8,12 @@ var toggleMenu = function()
 	{
 		menu.style.display = 'block'
 		button.style.backgroundColor = '#ffffff'
-		button.style.color = '#000000'
+		patties.style.backgroundColor = '#000000'
 	}
 	else
 	{
 		menu.style.display = 'none'
 		button.style.backgroundColor = '#000000'
-		button.style.color = '#ffffff'
+		patties.style.backgroundColor = '#ffffff'
 	}
 }
