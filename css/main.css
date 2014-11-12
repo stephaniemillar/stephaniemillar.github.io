@@ -36,9 +36,6 @@
 		width: 45%; /* Fallback if needed */
 		width: calc(50% - (98px + 35px));
 		height: 100%;
-
-		display: table-cell;
-		vertical-align: middle;
 	}
 
 		.navigation_links ul {
@@ -52,6 +49,9 @@
 
 			width: 33%;
 			text-align: center;
+
+			display: table-cell;
+			vertical-align: middle;
 		}
 
 			.navigation_links a {
