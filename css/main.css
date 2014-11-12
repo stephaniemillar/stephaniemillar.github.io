@@ -35,7 +35,10 @@
 	.navigation_links {
 		width: 45%; /* Fallback if needed */
 		width: calc(50% - (98px + 35px));
-		height: auto;
+		height: 100%;
+
+		display: table-cell;
+		vertical-align: middle;
 	}
 
 		.navigation_links ul {
