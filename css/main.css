@@ -36,27 +36,31 @@
 
 			margin-left: -12px;
 			margin-top: -2px;
-
-			background-color: #ffffff;
 		}
 
-		#patty_top {
-			position: absolute;
-			top: 30%;
-			left: 50%;
-		}
+			#patty_top {
+				position: absolute;
+				top: 30%;
+				left: 50%;
 
-		#patty_middle {
-			position: absolute;
-			top: 50%;
-			left: 50%;
-		}
+				background-color: #ffffff;
+			}
 
-		#patty_bottom {
-			position: absolute;
-			top: 70%;
-			left: 50%;
-		}
+			#patty_middle {
+				position: absolute;
+				top: 50%;
+				left: 50%;
+
+				background-color: #ffffff;
+			}
+
+			#patty_bottom {
+				position: absolute;
+				top: 70%;
+				left: 50%;
+
+				background-color: #ffffff;
+			}
 
 		#hamburger_menu {
 			position: absolute;
