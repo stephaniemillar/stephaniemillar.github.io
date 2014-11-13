@@ -5,7 +5,7 @@ categories:
 - review
 ---
 
-[![House of Hades](http://stephaniemillar.github.io/images/posts/house_of_hades.jpg)](http://www.amazon.com/gp/product/1423146727/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1423146727&linkCode=as2&tag=stephmilla-20&linkId=MO4QZDJZZMZXIGJH)
+[![House of Hades](http://stephaniemillar.github.io/images/posts/house-of-hades/header.png)](http://www.amazon.com/gp/product/1423146727/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1423146727&linkCode=as2&tag=stephmilla-20&linkId=MO4QZDJZZMZXIGJH)
 
 I have been meaning to read Rick Riordan's [The House of Hades](http://www.amazon.com/gp/product/1423146727/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1423146727&linkCode=as2&tag=stephmilla-20&linkId=MO4QZDJZZMZXIGJH) since it came out last year. This week, I **finally** got around to it reading it in order to gear up for the release of [The Blood of Olympus](http://www.amazon.com/gp/product/1423146735/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1423146735&linkCode=as2&tag=stephmilla-20&linkId=ZO4TP5WQGBKZRYFG) on October 7th. Holy Narnia, I'm excited for that book to hit my doorstep after reading House of Hades.
 
