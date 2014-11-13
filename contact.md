@@ -3,10 +3,12 @@ layout: page
 title: Contact
 ---
 
-[stephanienmillar@gmail.com](mailto:stephanienmillar@gmail.com)
+<div style = "text-align: center;">
+[![stephanienmillar@gmail.com](http://stephaniemillar.github.io/images/contact/gmail.png)](mailto:stephanienmillar@gmail.com)
 
-[Pinterest](http://www.pinterest.com/millarsn/)
+[![pinterest](http://stephaniemillar.github.io/images/contact/pinterest.png)](http://www.pinterest.com/millarsn/)
 
-[Facebook](https://www.facebook.com/stephanienmillar)
+[![facebook](http://stephaniemillar.github.io/images/contact/facebook.png)](https://www.facebook.com/stephanienmillar)
 
-[Twitter](https://twitter.com/stephiemillar)
+[![twitter](http://stephaniemillar.github.io/images/contact/twitter.png)](https://twitter.com/stephiemillar)
+</div>
