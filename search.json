@@ -1,17 +1,14 @@
 ---
+layout: none
 ---
 [
-{% for item in site.categories.about %}
-  {% include post.json %},
-{% endfor %}
-{% for item in site.categories.projects %}
-  {% include post.json %},
-{% endfor %}
-{% for item in site.categories.team %}
-  {% include post.json %},
-{% endfor %}
-{% for item in site.categories.blog limit:200 %}
-  {% include post.json %},
-{% endfor %}
-false
+  {% for post in site.posts %}
+    {
+      "title"    : "{{ post.title | escape }}",
+      "category" : "{{ post.category }}",
+      "tags"     : "{{ post.tags | array_to_sentence_string }}",
+      "url"      : "{{ site.baseurl }}{{ post.url }}",
+      "date"     : "{{ post.date }}"
+    } {% unless forloop.last %},{% endunless %}
+  {% endfor %}
 ]
