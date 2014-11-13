@@ -10,3 +10,7 @@ Books have been my world since I learned how to read. I remember as a child goin
 **Why should I care what you have to say about baking?**
 
 I will admit right away that I have no formal training in baking. Everything I’ve learned about baking has come through experience: both successes and failures. I have no qualifications whatsoever to be an authority over baking. BUT, I do have a passion for it. Originally, I loved baking because I could make delicious sugary things that I then immediately devoured. Overtime, my passion has grown from wanting to make make delicious things that I can eat to merely wanting to make delicious things. I think a recipe review blog would be helpful because there are so many recipes floating around on the internet now. Pinterest is a mess of recipes from everywhere, and pinners have no idea if the recipes are any good or not. I’ve found a number of good recipes online, but I’ve also found quite a few bad ones. Most blogs don’t rate their own recipes so there’s no way to know what other peoples’ experience with the recipe is. My goal with my recipe reviews is to be honest about the recipes I try and give helpful suggestions for ways that recipes could be improved. I will always give credit to the original blog and don’t in any way intend to steal recipes from others and make them my own (as I’ve seen many other blogs do lately).
+
+**Why a rhino?**
+
+Why not a rhino?
