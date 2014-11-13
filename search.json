@@ -6,7 +6,7 @@ layout: none
     {
       "title"    : "{{ post.title | escape }}",
       "category" : "{{ post.category }}",
-      "url"      : "{{ site.baseurl }}{{ post.url }}",
+      "url"      : "{{ site.baseurl }}{{ post.url | remove_first: '/' }}",
       "date"     : "{{ post.date | date: '%B %d, %Y' }}",
       "content"  : "{{ post.content | strip_html }}"
     } {% unless forloop.last %},{% endunless %}
