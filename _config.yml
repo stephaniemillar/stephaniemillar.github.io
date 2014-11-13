@@ -1,17 +1,22 @@
 # Permalinks
-permalink:           pretty
-relative_permalinks: true
+permalink:            pretty
+relative_permalinks:  true
 
 # Setup
 title:            Stephanie Millar
 tagline:          
 url:              http://stephaniemillar.github.io/
 paginate:         3
-baseurl:          /
+baseurl:          http://stephaniemillar.github.io/
 author:
   name:           Stephanie Millar
   url:            https://twitter.com/stephiemillar
   email:          stephanienmillar@gmail.com
+
+markdown:         kramdown
+
+kramdown:
+  smart_quotes:   ["apos", "apos", "ldquo", "rdquo"]
 
 gems:
   - jekyll-sitemap
