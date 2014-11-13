@@ -1,36 +1,72 @@
 ---
 layout: post
-title: "Fake Recipe"
+title: "Neopolitan Cupcakes"
 categories:
 - recipe
 ---
 
 Ingredients
 -----------
+**Chocolate Cupcake**  
+<input type="checkbox"> 1/3 cup unsweetend cocoa powder  
+<input type="checkbox"> 1/2 tsp baking soda  
+<input type="checkbox"> 1/2 cup boiling water  
+<input type="checkbox"> 1/4 cup unsalted butter, melted  
+<input type="checkbox"> 2 1/2 Tbsp vegetable or canola oil  
+<input type="checkbox"> 3/4 cup + 2 Tbsp granulated sugar  
+<input type="checkbox"> 3/4 tsp vanilla extract  
+<input type="checkbox"> 1/4 tsp salt  
+<input type="checkbox"> 1 large egg  
+<input type="checkbox"> 1 large egg yolk (reserve white for white portion of cupcake)  
+<input type="checkbox"> 1/4 cup heavy cream  
+<input type="checkbox"> 1 cup all-purpose flour       
+ 
+**White Vanilla Cupcake**  
+<input type="checkbox"> 1 cup + 6 Tbsp all-purpose flour  
+<input type="checkbox"> 2 Tbsp cornstarch  
+<input type="checkbox"> 1 1/2 tsp baking powder  
+<input type="checkbox"> 1/4 tsp salt  
+<input type="checkbox"> 7 Tbsp unsalted butter, softened  
+<input type="checkbox"> 3/4 cup granulated sugar   
+<input type="checkbox"> 1/2 tsp vanilla extract  
+<input type="checkbox"> 3 large egg whites  
+<input type="checkbox"> 1/2 cup milk  
+<input type="checkbox"> 1/2 tsp vanilla extract  
+
+**Strawberry Frosting**  
+<input type="checkbox"> 1/2 cup + 2 Tbsp strawberry puree  
+<input type="checkbox"> 1/2 cup unsalted butter, nearly at room temperature  
+<input type="checkbox"> 1/4 cup salted butter, nearly at room temperature  
+<input type="checkbox"> 2 1/2 - 2 3/4 cups powdered sugar  
+<input type="checkbox"> 1/4 tsp vanilla extract  
 
 
-
-<table style = "width: 100%; text-align: center">
-    <tr>
-        <td>1 Egg, large</td>
-        <td>Test </td>
-    </tr>
-    <tr>
-        <td>Test </td>
-        <td>Test </td>
-    </tr>
-    <tr>
-        <td>Test </td>
-        <td>Test </td>
-    </tr>
-    <tr>
-        <td>Test </td>
-    </tr>
-</table>
-
-Steps
+Instructions
 -----
-1. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc a nulla vitae magna hendrerit mattis. Proin faucibus, ligula vitae consectetur pretium, dolor mi ultricies justo, in auctor nisl libero vel neque. Proin vehicula bibendum libero, vitae ornare purus facilisis at.
-2. Praesent porttitor ornare leo, vitae accumsan velit porta et. Phasellus rutrum varius est quis iaculis. Nulla vel metus nec est porta mollis. Suspendisse tortor dolor, tincidunt quis pellentesque eu, blandit at ipsum. Aliquam augue neque, ultricies sed dignissim ac, fermentum eu ex. Sed mattis non felis nec maximus.
-3. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc a nulla vitae magna hendrerit mattis.
-4. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc a nulla vitae magna hendrerit mattis. Proin faucibus, ligula vitae consectetur pretium, dolor mi ultricies justo, in auctor nisl libero vel neque. Proin vehicula bibendum libero, vitae ornare purus facilisis at. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum risus ipsum, posuere porta faucibus vitae, pharetra tristique risus. Praesent porttitor ornare leo, vitae accumsan velit porta et.
+**For the chocolate cupcake:**  
+
+1. Preheat oven to 350 degrees.   
+2. In large heat proof mixing bowl, whisk together cocoa powder and baking soda. Carefully pour in boiling water and whisk until bubbling subsides and mixture is well blended, allow to cool for 5 minutes.  
+3. In a separate mixing bowl, blend together melted butter, vegetable oil, granulated sugar, vanilla and salt until well combined. Stir in egg and egg yolk.   
+4. Add to cocoa mixture then blend in heavy cream. Slowly mix in flour and mix until combined.  
+5. Spoon an even 1/8 cup (2 Tbsp) into bottom of paper lined muffin cups. Set aside.
+
+**For the white vanilla cupcake:** 
+ 
+1. Whisk flour and cornstarch together in a medium mixing bowl. Add baking powder and salt and whisk mixture 20 seconds. Set aside.  
+2. With a stand mixer, use the paddle attachment to whip together butter and sugar with 1/2 tsp vanilla extract on medium-high speed until pale and fluffy.  
+3. In separate mixing bowl whisk together milk, egg whites and vanilla extract until well blended.  
+4. Add 1/3 of the flour mixture to butter/sugar mixture and mix until combined.   
+5. Add 1/2 of the milk/egg mixture and mix on low speed until combined then increase to medium speed and mix 1 minute.  
+6. Add another 1/3 of the flour mixture and mix until combined, then add remaining 1/2 of the milk/egg mixture and mix on low until combined. Increase to medium and mix 1 minute. Add last 1/3 of the flour mixture and mix until well combined.  
+7. Spoon 1/8 cup batter over chocolate layer in cupcake wells and carefully spread batter evenly to edges.  
+8. Bake in preheated oven until toothpick inserted into center of cupcake comes out clean (about 16 - 19 minutes).  
+9. Allow to cool for several minutes before transfering to a wire rack to cool completely. Pipe or spread strawberry frosting over cupcakes.
+
+**For the Strawberry Buttercream Frosting:**  
+
+1. Add 1/2 cup + 2 Tbsp strawberry puree to a small saucepan. Heat mixture over medium-low heat, and simmer, stirring occasionally for about 10-14 minutes until reduced by about 3 Tbsp.  
+2. Pour reduced puree into a small bowl, then freeze until cool, stirring occasionally.  
+3. With a stand mixer, use the paddle attachment to whip unsalted and salted butter until very pale and fluffy.  
+4. Mix in 1 cup powdered sugar, then blend in 3 Tbsp reduced strawberry puree, and vanilla extract.  
+5. Add remaining 1 1/2 cups powdered sugar and continue to mix until frosting is pale and fluffy. You can add in an additional powdered sugar if needed to reach desired consistency.
