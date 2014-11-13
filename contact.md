@@ -3,7 +3,6 @@ layout: page
 title: Contact
 ---
 
-
 [stephanienmillar@gmail.com](mailto:stephanienmillar@gmail.com)
 
 [Pinterest](http://www.pinterest.com/millarsn/)
