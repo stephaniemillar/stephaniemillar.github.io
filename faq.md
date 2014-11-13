@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: FAQ
 ---
 
 **Why do you read?**
