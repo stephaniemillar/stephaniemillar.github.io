@@ -155,7 +155,9 @@
 			top: 0px;
 		}
 
-			#right_nav > ul > li > span {
+			#right_nav > ul > li > a > span {
+				display: inline-block;
+				
 				font-size: 35px;
 				text-decoration: none;
 
