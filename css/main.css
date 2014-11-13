@@ -163,7 +163,7 @@
 				-o-transform: rotate(-45deg);
 			}
 
-				#search a, #search:hover {
+				#search a:hover {
 					text-decoration: none;
 				}
 }
