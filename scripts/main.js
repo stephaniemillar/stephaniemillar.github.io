@@ -1,3 +1,30 @@
+var database
+
+var loadDatabase = function()
+{
+	$.getJSON("http://stephaniemillar.github.io/search.json", function(json)
+	{
+	    database = json;
+	})
+}
+
+var search = function(query)
+{
+	// var searchString = document.getElementById('searchbox').value
+	var results = 0
+
+	$.each(database, function(i, v)
+	{
+		if (database[i].content.toLowerCase().indexOf(query) > 0)
+		{
+			results++
+			console.log(v.title)
+		}
+	})
+
+	console.log(results + ' result(s)')
+}
+
 var toggleMenu = function()
 {
 	var pattyTop = document.getElementById('patty_top')
