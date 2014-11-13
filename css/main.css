@@ -156,14 +156,14 @@
 		}
 
 			#search {
-				font-size: 50px;
+				font-size: 35px;
 
 				-webkit-transform: rotate(-45deg);
 				-moz-transform: rotate(-45deg);
 				-o-transform: rotate(-45deg);
 			}
 
-				#search:hover {
+				#search a, #search:hover {
 					text-decoration: none;
 				}
 }
