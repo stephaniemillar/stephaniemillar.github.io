@@ -16,7 +16,7 @@ author:
 markdown:         kramdown
 
 kramdown:
-  smart_quotes:   ["apos", "apos", "ldquo", "rdquo"]
+  smart_quotes:   ["apos", "apos", "quot", "quot"]
 
 gems:
   - jekyll-sitemap
