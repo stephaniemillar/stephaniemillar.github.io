@@ -335,7 +335,7 @@ tbody tr:nth-child(odd) th {
 	margin-bottom: 4em;
 }
 
-.post img {
+.page img, .post img {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
