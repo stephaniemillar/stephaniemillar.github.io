@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Neopolitan Cupcakes"
-categories:
+category:
 - recipe
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The House of Hades"
-categories:
+category:
 - review
 ---
 
