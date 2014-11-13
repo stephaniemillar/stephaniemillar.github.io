@@ -319,7 +319,6 @@ tbody tr:nth-child(odd) th {
 	letter-spacing: 0;
 }
 
-
 /*
  * Posts and pages
  *
@@ -327,10 +326,13 @@ tbody tr:nth-child(odd) th {
  * page is wrapped in `.page` and is only used on the page layout.
  */
 
+.posts {
+	margin-top: 275px;;
+}
+
 .page,
 .post {
 	margin-bottom: 4em;
-	margin-top: 275px;
 }
 
 .post img {
