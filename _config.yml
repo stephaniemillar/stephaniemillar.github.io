@@ -12,3 +12,6 @@ author:
   name:           Stephanie Millar
   url:            https://twitter.com/stephiemillar
   email:          stephanienmillar@gmail.com
+
+gems:
+  - jekyll-sitemap
