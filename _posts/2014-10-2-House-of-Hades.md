@@ -30,7 +30,3 @@ The amazing thing is, even after remembering who he was, he chooses who he will 
 Bob teaches all of us that we're in charge of who we are and who we become. Circumstance, fate, and experience isn't what matters. Our choices are what we are made of and Riordan did a beautiful job of expressing that. While the entirety of  [House of Hades](http://www.amazon.com/gp/product/1423146727/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1423146727&linkCode=as2&tag=stephmilla-20&linkId=JV7GBAN2PLIN3LRY) was great, the story of Bob the Janitor is what spoke to my soul. 
 
 So, here's to Bob.
-
-
-
-
