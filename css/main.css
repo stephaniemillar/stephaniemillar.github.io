@@ -154,6 +154,18 @@
 			right: 0px;
 			top: 0px;
 		}
+
+			#search {
+				font-size: 50px;
+
+				-webkit-transform: rotate(-45deg);
+				-moz-transform: rotate(-45deg);
+				-o-transform: rotate(-45deg);
+			}
+
+				#search:hover {
+					text-decoration: none;
+				}
 }
 
 	.navigation_links {
