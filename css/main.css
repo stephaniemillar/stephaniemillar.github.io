@@ -21,7 +21,7 @@
 			margin: 0px;
 			padding: 0px;
 
-			width: 20%;
+			width: calc(100% / 5);
 		}
 
 			#footer li img {
