@@ -10,9 +10,9 @@
 		text-align: center;
 	}
 
-	#footer > ul > li {
-		display: inline;
-	}
+		#footer li {
+			float: left;
+		}
 
 #navigation {
 	position: absolute;
