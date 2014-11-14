@@ -5,7 +5,7 @@ category:
 - recipe
 ---
 
-![header](http://stephaniemillar.github.io/images/posts/neopolitan-cupcakes/header.png)
+![Neopolitan Cupcakes](http://stephaniemillar.github.io/images/posts/neopolitan-cupcakes/header.png)
 
 This is a recipe I tried from the [Cooking Classy](http://www.cookingclassy.com/2014/09/neapolitan-cupcakes/) website, which I found on Pinterest. I was initially hesitant to try it because of the somewhat unconventional cupcake recipe, but it turned out wonderfully. Cupcakes that taste like ice cream? I'm always down.  
 
