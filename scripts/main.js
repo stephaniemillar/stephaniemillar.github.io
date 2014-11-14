@@ -31,7 +31,7 @@ var showSearch = function()
 	var leftNav = document.getElementById('left_nav')
 	var rightNav = document.getElementById('right_nav')
 
-	searchBar.style.display = 'none'
+	searchBar.style.display = 'block'
 	leftNav.style.display = 'none'
 	rightNav.style.display = 'none'
 }
