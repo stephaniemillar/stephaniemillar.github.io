@@ -1,18 +1,27 @@
-#footer {
-	width: 100%;
-	height: auto;
+#footer {	
+	width: 90%;
+	height: 26px;
+
+	margin-left: 5%;
+
+	padding-bottom: 75px;
 }
 
 	#footer ul {
 		margin: 0px;
 		padding: 0px;
 		list-style-type: none;
-		text-align: center;
 	}
 
 		#footer li {
-			float: left;
+			display: inline-block;
+
+			width: 19%;
 		}
+
+			#footer li img {
+				margin: 0 auto;
+			}
 
 #navigation {
 	position: absolute;
