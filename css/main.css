@@ -182,6 +182,8 @@
 			}
 
 		#hamburger_menu {
+			display: none;
+
 			position: absolute;
 			left: 0px;
 			top: 118px;
