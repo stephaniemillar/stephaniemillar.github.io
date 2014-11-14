@@ -166,7 +166,19 @@
 		z-index: 9;
 	}
 
-@media (min-width: 50em) { /* This is the desktop version and above is mobile */
+	#search_bar {
+		display: none;
+
+		position: absolute;
+		right: 20px;
+		top: 20%;
+
+		width: 45%; /* Fallback if needed */
+		width: calc(50% - (98px + 25px)); /* The last px value is padding */
+		height: 60%;
+	}
+
+@media (min-width: 50em) { /* This is the desktop version "settings" and above is mobile and general stuff */
 	#navigation {
 		position: absolute;
 		left: 0px;
@@ -203,14 +215,6 @@
 
 		#search_bar {
 			display: none;
-
-			position: absolute;
-			right: 20px;
-			top: 20%;
-
-			width: 45%; /* Fallback if needed */
-			width: calc(50% - (98px + 25px)); /* The last px value is padding */
-			height: 60%;
 		}
 
 		#right_nav {
