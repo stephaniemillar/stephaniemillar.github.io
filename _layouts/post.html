@@ -5,7 +5,6 @@ layout: default
 <article class="post page">
 	<h1 class="post-title">{{ page.title }}</h1>
 	<time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date: "%B %-d, %Y" }}</time>
-	<a href="//www.pinterest.com/pin/create/button/" data-pin-do="buttonBookmark"  data-pin-color="red" data-pin-height="28"><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_red_28.png" /></a>
 	{{ content }}
 </article>
 
