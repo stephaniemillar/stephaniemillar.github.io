@@ -171,10 +171,12 @@
 
 		position: absolute;
 		right: 28px;
-		top: 35%;
+		top: 37%;
 
-		width: calc(50% - (98px + 15%)); /* The last value is padding */
-		height: 30%;
+		width: calc((50% - 98px) / 2); /* The last value is padding */
+		height: 26%;
+
+		z-index: 10;
 	}
 
 		#search_bar input {
