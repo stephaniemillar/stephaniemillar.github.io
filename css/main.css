@@ -1,11 +1,13 @@
 #footer {	
-	width: 90%;
+	width: 92%;
 	height: 26px;
 
-	margin-left: 5%;
+	margin-left: 4%;
 
 	padding-top: 3rem;
 	padding-bottom: 115px;
+
+	overflow-x: hidden;
 }
 
 	#footer ul {
@@ -17,7 +19,7 @@
 		#footer li {
 			display: inline-block;
 
-			width: 19%;
+			width: 20%;
 		}
 
 			#footer li img {
