@@ -25,6 +25,17 @@ var search = function(query)
 	console.log(results + ' result(s)')
 }
 
+var showSearch = function()
+{
+	var searchBar = document.getElementById('search_bar')
+	var leftNav = document.getElementById('left_nav')
+	var rightNav = document.getElementById('right_nav')
+
+	searchBar.style.display = 'none'
+	leftNav.style.display = 'none'
+	rightNav.style.display = 'none'
+}
+
 var toggleMenu = function()
 {
 	var pattyTop = document.getElementById('patty_top')

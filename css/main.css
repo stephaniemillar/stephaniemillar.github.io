@@ -24,6 +24,99 @@
 				margin: 0 auto;
 			}
 
+.navigation_links {
+	width: 45%; /* Fallback if needed */
+	width: calc(50% - (98px + 25px)); /* The last px value is padding */
+	height: 100%;
+}
+
+	.navigation_links ul {
+		margin: 0px;
+		padding: 0px;
+		list-style: none;
+	}
+
+		.navigation_links li {
+			display: inline-block;
+
+			width: 33%;
+			line-height: 118px; /* Same as the navigation height */
+			text-align: center;
+		}
+
+			.navigation_links a {
+				display: block;
+
+				color: #ffffff;
+			}
+
+@media (min-width: 50em) { /* This is the desktop version and below is mobile */
+	#navigation {
+		position: absolute;
+		left: 0px;
+		top: 0px;
+
+		width: 100%;
+		height: 118px;
+
+		background-color: #000000;
+	}
+
+		#hamburger {
+			display: none;
+		}
+
+		#left_nav {
+			display: block;
+
+			position: absolute;
+			left: 0px;
+			top: 0px;
+		}
+
+		#logo {
+			position: absolute;
+			left: 50%;
+			top: 20px;
+
+			width: 196px;
+			height: 196px;
+
+			margin-left: -98px;
+		}
+
+		#search_bar {
+			display: none;
+
+			position: absolute;
+			right: 20px;
+			top: 20%;
+
+			width: 45%; /* Fallback if needed */
+			width: calc(50% - (98px + 25px)); /* The last px value is padding */
+			height: 60%;
+		}
+
+		#right_nav {
+			display: block;
+
+			position: absolute;
+			right: 0px;
+			top: 0px;
+		}
+
+			#right_nav > ul > li > a > span { /* This is the magnifying glass glyph */
+				display: inline-block;
+				
+				font-size: 35px;
+				text-decoration: none;
+
+				-webkit-transform: rotate(-45deg);
+				-moz-transform: rotate(-45deg);
+				-o-transform: rotate(-45deg);
+			}
+}
+
 #navigation {
 	position: absolute;
 	left: 0px;
@@ -137,84 +230,3 @@
 
 		z-index: 9;
 	}
-
-@media (min-width: 50em) { /* This is the desktop version and above is mobile */
-	#navigation {
-		position: absolute;
-		left: 0px;
-		top: 0px;
-
-		width: 100%;
-		height: 118px;
-
-		background-color: #000000;
-	}
-
-		#hamburger {
-			display: none;
-		}
-
-		#left_nav {
-			display: block;
-
-			position: absolute;
-			left: 0px;
-			top: 0px;
-		}
-
-		#logo {
-			position: absolute;
-			left: 50%;
-			top: 20px;
-
-			width: 196px;
-			height: 196px;
-
-			margin-left: -98px;
-		}
-
-		#right_nav {
-			display: block;
-
-			position: absolute;
-			right: 0px;
-			top: 0px;
-		}
-
-			#right_nav > ul > li > a > span {
-				display: inline-block;
-				
-				font-size: 35px;
-				text-decoration: none;
-
-				-webkit-transform: rotate(-45deg);
-				-moz-transform: rotate(-45deg);
-				-o-transform: rotate(-45deg);
-			}
-}
-
-	.navigation_links {
-		width: 45%; /* Fallback if needed */
-		width: calc(50% - (98px + 25px)); /* The last px value is padding */
-		height: 100%;
-	}
-
-		.navigation_links ul {
-			margin: 0px;
-			padding: 0px;
-			list-style: none;
-		}
-
-		.navigation_links li {
-			display: inline-block;
-
-			width: 33%;
-			line-height: 118px; /* Same as the navigation height */
-			text-align: center;
-		}
-
-			.navigation_links a {
-				display: block;
-
-				color: #ffffff;
-			}
