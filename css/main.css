@@ -1,3 +1,19 @@
+#footer {
+	width: 100%;
+	height: auto;
+}
+
+	#footer ul {
+		margin: 0px;
+		padding: 0px;
+		list-style-type: none;
+		text-align: center;
+	}
+
+	#footer > ul > li {
+		display: inline;
+	}
+
 #navigation {
 	position: absolute;
 	left: 0px;
