@@ -176,10 +176,6 @@
 		width: 45%; /* Fallback if needed */
 		width: calc(50% - (98px + 100px)); /* The last px value is padding */
 		height: 30%;
-
-		-webkit-border-radius: 15%;
-		-moz-border-radius: 15%;
-		border-radius: 15%;
 	}
 
 		#search_bar input {
@@ -190,6 +186,10 @@
 
 			width: 100%;
 			height: 100%;
+
+			-webkit-border-radius: 50%;
+			-moz-border-radius: 50%;
+			border-radius: 50%;
 		}
 
 @media (min-width: 50em) { /* This is the desktop version "settings" and above is mobile and general stuff */
