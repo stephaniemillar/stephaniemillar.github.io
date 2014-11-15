@@ -3,11 +3,11 @@ permalink:            pretty
 relative_permalinks:  true
 
 # Setup
-title:                Stephanie Millar
+title:                Why Not a Rhino?
 tagline:          
-url:                  http://stephaniemillar.github.io/
+url:                  http://www.whynotarhino.com/
 paginate:             3
-baseurl:              http://stephaniemillar.github.io/
+baseurl:              http://www.whynotarhino.com/
 author:
   name:               Stephanie Millar
   url:                https://twitter.com/stephiemillar

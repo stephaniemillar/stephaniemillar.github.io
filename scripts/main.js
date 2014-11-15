@@ -2,7 +2,7 @@ var database
 
 var loadDatabase = function()
 {
-	$.getJSON("http://stephaniemillar.github.io/search.json", function(json)
+	$.getJSON("http://www.whynotarhino.com/search.json", function(json)
 	{
 	    database = json;
 	})
