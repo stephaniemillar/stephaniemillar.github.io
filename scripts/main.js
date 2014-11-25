@@ -11,6 +11,7 @@ var loadDatabase = function()
 var search = function(query)
 {
 	var searchString = document.getElementById('search_box').value.toLowerCase()
+	var list = document.getElementById('search_results')
 
 	var results = 0
 
@@ -20,6 +21,10 @@ var search = function(query)
 		{
 			results++
 			console.log(v.title)
+
+			var entry = document.createElement('li');
+				entry.appendChild(v.title);
+			list.appendChild(entry);
 		}
 	})
 
