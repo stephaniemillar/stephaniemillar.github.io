@@ -34,11 +34,6 @@ document.onkeydown = function(event) // For the "Escape" key
 	}
 }
 
-document.body.onclick = function()
-{
-	closeSearch()
-}
-
 var closeSearch = function()
 {
 	var search = document.getElementById('search')
