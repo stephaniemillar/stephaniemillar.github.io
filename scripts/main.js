@@ -16,7 +16,7 @@ var search = function(query)
 
 	$.each(database, function(i, v)
 	{
-		if (database[i].content.toLowerCase().indexOf(query) > 0)
+		if (database[i].content.toLowerCase().indexOf(searchString) > 0)
 		{
 			results++
 			console.log(v.title)
@@ -47,7 +47,7 @@ var toggleSearch = function()
 	if (search.style.display == 'none')
 	{
 		search.style.display = 'block'
-		search.focus()
+		searchBox.focus()
 	}
 	else if (search.style.display == 'block')
 	{
@@ -56,7 +56,7 @@ var toggleSearch = function()
 	else // For initial, lazy setting
 	{
 		search.style.display = 'block'
-		search.focus()
+		searchBox.focus()
 	}
 }
 
