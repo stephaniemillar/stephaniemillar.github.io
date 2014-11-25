@@ -39,9 +39,13 @@ document.onkeydown = function(event) // For the "Escape" key
 
 window.onclick = function(event)
 {
-	if (event.target.id == 'magnify' || event.target.id == 'search')
+	if (event.target.id == 'magnify')
 	{
-		// Do nothin' because I'm lazy
+		toggleSearch()
+	}
+	else if (event.target.id == 'search')
+	{
+		// Ignore the event
 	}
 	else
 	{
