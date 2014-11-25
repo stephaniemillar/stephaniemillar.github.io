@@ -45,6 +45,7 @@ $('body').click(function(event)
 	}
 	else
 	{
+		console.log('Body click')
 		closeSearch();
 	}
 })
