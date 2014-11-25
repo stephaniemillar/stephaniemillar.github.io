@@ -25,15 +25,18 @@ var search = function(query)
 	console.log(results + ' result(s)')
 }
 
-var showSearch = function()
+var toggleSearch = function()
 {
-	var searchBar = document.getElementById('search_bar')
-	var leftNav = document.getElementById('left_nav')
-	var rightNav = document.getElementById('right_nav')
+	var searchBar = document.getElementById('search')
 
-	searchBar.style.display = 'block'
-	// leftNav.style.display = 'none'
-	// rightNav.style.display = 'none'
+	if (searchBar.style.display == 'none')
+	{
+		searchBar.style.display = 'block'
+	}
+	else
+	{
+		searchBar.style.display = 'none'
+	}
 }
 
 var toggleMenu = function()
