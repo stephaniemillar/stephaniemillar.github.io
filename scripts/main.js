@@ -39,15 +39,12 @@ document.onkeydown = function(event) // For the "Escape" key
 
 window.onclick = function(event)
 {
-	console.log(event)
-
-	if (event.target.id == 'magnify')
+	if (event.target.id == 'magnify' || event.target.id == 'search')
 	{
 		// Do nothin' because I'm lazy
 	}
 	else
 	{
-		console.log('Body click')
 		closeSearch();
 	}
 }
