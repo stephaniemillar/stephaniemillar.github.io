@@ -22,9 +22,9 @@ var search = function(query)
 			results++
 			console.log(v.title)
 
-			var entry = document.createElement('li');
-				entry.appendChild(v.title);
-			list.appendChild(entry);
+			var entry = document.createElement('li')
+				entry.innerHTML = v.title
+			list.appendChild(entry)
 		}
 	})
 
