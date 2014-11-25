@@ -10,7 +10,8 @@ var loadDatabase = function()
 
 var search = function(query)
 {
-	// var searchString = document.getElementById('searchbox').value
+	var searchString = document.getElementById('searchbox').value.toLowerCase()
+
 	var results = 0
 
 	$.each(database, function(i, v)
@@ -42,16 +43,19 @@ var toggleSearch = function()
 {
 	var searchBar = document.getElementById('search')
 
-	console.log(searchBar.style.display)
-
 	if (searchBar.style.display == 'none')
 	{
 		searchBar.style.display = 'block'
 		searchBar.focus()
 	}
-	else
+	else if (searchBar.style.display == 'block')
 	{
 		searchBar.style.display = 'none'
+	}
+	else // For initial, lazy setting
+	{
+		searchBar.style.display = 'block'
+		searchBar.focus()
 	}
 }
 
