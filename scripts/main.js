@@ -18,22 +18,15 @@ var search = function(query)
 		list.removeChild(list.firstChild)
 	}
 
-	var results = 0
-
 	$.each(database, function(i, v)
 	{
 		if (database[i].content.toLowerCase().indexOf(searchString) > 0)
 		{
-			results++
-			console.log(v.title)
-
 			var entry = document.createElement('li')
 				entry.innerHTML = '<a href = "' + v.url + '">' + v.title + '</a>'
 			list.appendChild(entry)
 		}
 	})
-
-	console.log(results + ' result(s)')
 }
 
 document.onkeydown = function(event) // For the "Escape" key
