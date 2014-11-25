@@ -37,8 +37,10 @@ document.onkeydown = function(event) // For the "Escape" key
 	}
 }
 
-$('body').click(function(event)
+window.onclick = function(event)
 {
+	console.log(event)
+
 	if (event.target.id == 'magnify')
 	{
 		// Do nothin' because I'm lazy
@@ -48,7 +50,7 @@ $('body').click(function(event)
 		console.log('Body click')
 		closeSearch();
 	}
-})
+}
 
 var closeSearch = function()
 {
