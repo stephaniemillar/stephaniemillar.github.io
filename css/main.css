@@ -266,7 +266,7 @@
 			top: 0px;
 		}
 
-			#right_nav > ul > li > span { /* This is the magnifying glass glyph */
+			#right_nav > ul > li > a > span { /* This is the magnifying glass glyph */
 				display: inline-block;
 				
 				font-size: 35px;
