@@ -28,7 +28,7 @@ var search = function(query)
 			console.log(v.title)
 
 			var entry = document.createElement('li')
-				entry.innerHTML = v.title
+				entry.innerHTML = '<a href = "' + v.url + '">' + v.title + '</a>'
 			list.appendChild(entry)
 		}
 	})
