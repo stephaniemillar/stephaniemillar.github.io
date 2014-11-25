@@ -42,6 +42,8 @@ var toggleSearch = function()
 {
 	var searchBar = document.getElementById('search')
 
+	console.log(searchBar.style.display)
+
 	if (searchBar.style.display == 'none')
 	{
 		searchBar.style.display = 'block'
