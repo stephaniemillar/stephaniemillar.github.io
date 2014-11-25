@@ -22,20 +22,35 @@
 		margin: 0px;
 		padding: 0px;
 
-		border: none;
+		position: absolute;
+		left: 7px;
+		top: 7px;
+		width: 384px;
+		height: 44px;
 
-		width: 100%;
-		height: 100%;
+		border: solid 1px #dddddd;
 
-		padding-left: 3%;
-		padding-right: 3%;
-
+		font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+		font-size: 16px;
+		line-height: 10px;
 		text-align: center;
 
-		-webkit-border-radius: 5px;
-		-moz-border-radius: 5px;
-		border-radius: 5px;
+		-webkit-box-shadow:inset 0 0 3px rgba(0, 0, 0, 0.2);
+       	-moz-box-shadow:inset 0 0 3px rgba(0, 0, 0, 0.2);
+        box-shadow:inset 0 0 3px rgba(0, 0, 0, 0.2);
+
+		-webkit-border-radius: 3px;
+		-moz-border-radius: 3px;
+		border-radius: 3px;
 	}
+
+		#search input:focus {
+			outline: none;
+
+			-webkit-box-shadow:inset 0 0 5px rgba(105, 200, 201, 1.0);
+       		-moz-box-shadow:inset 0 0 5px rgba(105, 200, 201, 1.0);
+        	box-shadow:inset 0 0 5px rgba(105, 200, 201, 1.0);
+		}
 
 #footer {	
 	width: 100%;
