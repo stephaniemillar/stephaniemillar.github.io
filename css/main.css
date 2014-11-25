@@ -1,15 +1,41 @@
 #search {
+	display: none;
+
 	position: absolute;
 	right: 25px;
-	top: 142px; /* The height of the navigation plus 25px */
-	width: 35%;
-	height: 150px;
+	top: 98px;
+	width: 400px;
+	height: 60px;
 
-	background-color: #000000;
-	opacity: 0.7;
+	background-color: #ffffff;
+	border: solid 1px #dddddd;
+	box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+
+	-webkit-border-radius: 8px;
+	-moz-border-radius: 8px;
+	border-radius: 8px;
 
 	z-index: 999;
 }
+
+	#search input {
+		margin: 0px;
+		padding: 0px;
+
+		border: none;
+
+		width: 100%;
+		height: 100%;
+
+		padding-left: 3%;
+		padding-right: 3%;
+
+		text-align: center;
+
+		-webkit-border-radius: 5px;
+		-moz-border-radius: 5px;
+		border-radius: 5px;
+	}
 
 #footer {	
 	width: 100%;
@@ -182,42 +208,6 @@
 		z-index: 9;
 	}
 
-	#search_bar {
-		display: none;
-
-		position: absolute;
-		right: 28px;
-		top: 37%;
-
-		width: calc((50% - 98px) / 2); /* The last value is padding */
-		height: 26%;
-
-		z-index: 10;
-	}
-
-		#search_bar input {
-			margin: 0px;
-			padding: 0px;
-
-			border: none;
-
-			width: 100%;
-			height: 100%;
-
-			padding-left: 3%;
-			padding-right: 3%;
-
-			text-align: center;
-
-			-webkit-border-radius: 5px;
-			-moz-border-radius: 5px;
-			border-radius: 5px;
-		}
-
-			#search_bar input:focus {
-				outline: none;
-			}
-
 @media (min-width: 50em) { /* This is the desktop version "settings" and above is mobile and general stuff */
 	#navigation {
 		position: absolute;
@@ -251,10 +241,6 @@
 			height: 196px;
 
 			margin-left: -98px;
-		}
-
-		#search_bar {
-			display: none;
 		}
 
 		#right_nav {
