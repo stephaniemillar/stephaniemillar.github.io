@@ -28,15 +28,25 @@ var search = function(query)
 
 document.onkeydown = function(event) // For the "Escape" key
 {
-	var search = document.getElementById('search')
-
 	if (event.keyCode == 27)
 	{
-		if (search.style.display == 'block')
-		{
-			search.style.display = 'none'
-		}
-	}	
+		closeSearch()
+	}
+}
+
+document.body.onclick = function()
+{
+	closeSearch()
+}
+
+var closeSearch = function()
+{
+	var search = document.getElementById('search')
+	
+	if (search.style.display == 'block')
+	{
+		search.style.display = 'none'
+	}
 }
 
 var toggleSearch = function()
