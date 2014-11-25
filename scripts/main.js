@@ -10,7 +10,7 @@ var loadDatabase = function()
 
 var search = function(query)
 {
-	var searchString = document.getElementById('searchbox').value.toLowerCase()
+	var searchString = document.getElementById('search_box').value.toLowerCase()
 
 	var results = 0
 
@@ -28,34 +28,35 @@ var search = function(query)
 
 document.onkeydown = function(event) // For the "Escape" key
 {
-	var searchBar = document.getElementById('search')
+	var search = document.getElementById('search')
 
 	if (event.keyCode == 27)
 	{
-		if (searchBar.style.display == 'block')
+		if (search.style.display == 'block')
 		{
-			searchBar.style.display = 'none'
+			search.style.display = 'none'
 		}
 	}	
 }
 
 var toggleSearch = function()
 {
-	var searchBar = document.getElementById('search')
+	var search = document.getElementById('search')
+	var searchBox = document.getElementById('search_box')
 
-	if (searchBar.style.display == 'none')
+	if (search.style.display == 'none')
 	{
-		searchBar.style.display = 'block'
-		searchBar.focus()
+		search.style.display = 'block'
+		search.focus()
 	}
-	else if (searchBar.style.display == 'block')
+	else if (search.style.display == 'block')
 	{
-		searchBar.style.display = 'none'
+		search.style.display = 'none'
 	}
 	else // For initial, lazy setting
 	{
-		searchBar.style.display = 'block'
-		searchBar.focus()
+		search.style.display = 'block'
+		search.focus()
 	}
 }
 
