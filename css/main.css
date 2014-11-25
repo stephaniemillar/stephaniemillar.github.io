@@ -52,6 +52,14 @@
         	box-shadow:inset 0 0 5px rgba(105, 200, 201, 1.0);
 		}
 
+	#search_results {
+		position: absolute;
+		left: 0px;
+		top: 98px;
+
+		z-index: 9;
+	}
+
 #footer {	
 	width: 100%;
 	height: 26px;

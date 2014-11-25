@@ -13,6 +13,11 @@ var search = function(query)
 	var searchString = document.getElementById('search_box').value.toLowerCase()
 	var list = document.getElementById('search_results')
 
+	while (list.firstChild)
+	{
+		list.removeChild(list.firstChild)
+	}
+
 	var results = 0
 
 	$.each(database, function(i, v)
