@@ -25,6 +25,19 @@ var search = function(query)
 	console.log(results + ' result(s)')
 }
 
+document.onkeydown = function(event) // For the "Escape" key
+{
+	var searchBar = document.getElementById('search')
+
+	if (event.keyCode == 27)
+	{
+		if (searchBar.style.display == 'block')
+		{
+			searchBar.style.display = 'none'
+		}
+	}	
+}
+
 var toggleSearch = function()
 {
 	var searchBar = document.getElementById('search')
@@ -32,6 +45,7 @@ var toggleSearch = function()
 	if (searchBar.style.display == 'none')
 	{
 		searchBar.style.display = 'block'
+		searchBar.focus()
 	}
 	else
 	{
