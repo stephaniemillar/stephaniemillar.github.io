@@ -79,13 +79,25 @@
 				width: 100%;
 				height: auto;
 
-				background-color: #000000;
+				background-color: #aaaaaa;
 				color: #ffffff;
 
 				font-size: 18px;
 				line-height: 44px;
 				text-align: center;
 			}
+
+				#search_results li:first-child {
+					-webkit-border-radius: 8px 8px 0px 0px;
+					-moz-border-radius: 8px 8px 0px 0px;
+					border-radius: 8px 8px 0px 0px;
+				}
+
+				#search_results li:last-child {
+					-webkit-border-radius: 0px 0px 8px 8px;
+					-moz-border-radius: 0px 0px 8px 8px;
+					border-radius: 0px 0px 8px 8px;
+				}
 
 				#search_results a {
 					display: block;
