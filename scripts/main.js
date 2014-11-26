@@ -37,15 +37,14 @@ document.onkeydown = function(event) // For the "Escape" key
 	}
 }
 
-$('body').click(function(event)
+$(document).mouseup(function (e)
 {
-	if (event.target.id == 'magnify')
+	var container = $('search')
+
+	if (!container.is(e.target) // if the target of the click isn't the container...
+		&& container.has(e.target).length === 0) // ... nor a descendant of the container
 	{
-		// Do nothin' because I'm lazy
-	}
-	else
-	{
-		closeSearch();
+		container.hide()
 	}
 })
 
