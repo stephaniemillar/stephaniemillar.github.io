@@ -99,11 +99,17 @@
 					border-radius: 0px 0px 8px 8px;
 				}
 
-				#search_results a {
-					display: block;
-
-					color: #ffffff;
+				#search_results li:only-child {
+					-webkit-border-radius: 8px;
+					-moz-border-radius: 8px;
+					border-radius: 8px;
 				}
+
+					#search_results a {
+						display: block;
+
+						color: #ffffff;
+					}
 
 #footer {	
 	width: 100%;
