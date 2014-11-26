@@ -37,21 +37,17 @@ document.onkeydown = function(event) // For the "Escape" key
 	}
 }
 
-window.onclick = function(event)
+$('body').click(function(event)
 {
 	if (event.target.id == 'magnify')
 	{
-		toggleSearch()
-	}
-	else if (event.target.id == 'search')
-	{
-		// Ignore the event
+		// Do nothin' because I'm lazy
 	}
 	else
 	{
 		closeSearch();
 	}
-}
+})
 
 var closeSearch = function()
 {
