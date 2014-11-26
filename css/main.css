@@ -79,15 +79,18 @@
 				width: 100%;
 				height: auto;
 
-				background-color: #bada55;
+				background-color: #000000;
+				color: #ffffff;
 
 				font-size: 18px;
-				line-height: 40px;
+				line-height: 44px;
 				text-align: center;
 			}
 
 				#search_results a {
 					display: block;
+
+					color: #ffffff;
 				}
 
 #footer {	
