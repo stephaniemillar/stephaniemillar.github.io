@@ -17,7 +17,7 @@ var search = function(query)
 	{
 		list.removeChild(list.firstChild)
 
-		list.style.height -= 30
+		document.getElementById('search').style.height -= 30
 	}
 
 	$.each(database, function(i, v)
@@ -28,7 +28,7 @@ var search = function(query)
 				entry.innerHTML = '<a href = "' + v.url + '">' + v.title + '</a>'
 			list.appendChild(entry)
 
-			list.style.height += 30
+			document.getElementById('search').style.height += 30
 		}
 	})
 }
