@@ -5,7 +5,7 @@ category:
 - reviews
 ---
 
-![header](http://www.whynotarhino.com/images/posts/blood-of-olympus/header.png)
+![Blood of Olympus](http://www.whynotarhino.com/images/posts/blood-of-olympus/header.png)
 
 I finished [Blood of Olympus](http://www.amazon.com/gp/product/1423146735/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1423146735&linkCode=as2&tag=stephmilla-20&linkId=EMXKNKXY2EUJXOIY) this past week. I always have mixed feelings about finishing a series. I end up investing so much into the characters that by the end of it, I feel like I'm saying goodbye to close friends. This series was fantastic, though, and I'm glad Rick Riordan decided to continue on with the Percy Jackson story line because he is a genius.
 
