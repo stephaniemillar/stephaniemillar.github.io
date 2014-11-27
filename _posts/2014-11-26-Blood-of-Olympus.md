@@ -2,7 +2,7 @@
 layout: post
 title: "Blood of Olympus"
 category:
-- reviews
+- review
 ---
 
 ![Blood of Olympus](http://www.whynotarhino.com/images/posts/blood-of-olympus/header.png)
