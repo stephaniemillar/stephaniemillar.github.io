@@ -5,7 +5,7 @@ category:
 - recipe
 ---
 
-
+![Mini Pumpkin Pies](http://www.whynotarhino.com/images/posts/mini-pumpkin-pies/header.png)
 
 These are one of the desserts I made for Thanksgiving this year. They were my first attempt at pies and they turned out wonderfully! This recipe is pretty simple and easy to make. The recipe is from [makeandtakes.com](http://www.makeandtakes.com/muffin-tin-pumpkin-pies), the recipe for the filling comes from the [can of pumpkin](https://www.verybestbaking.com/recipes/18470/libbys-famous-pumpkin-pie/), and the whipped cream recipe is courtesy of [Alton Brown](http://www.foodnetwork.com/recipes/alton-brown/whipped-cream-recipe.html).
 
