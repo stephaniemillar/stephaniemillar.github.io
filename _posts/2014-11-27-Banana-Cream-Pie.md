@@ -5,6 +5,7 @@ category:
 - recipe
 ---
 
+![Banana Cream Pie](http://www.whynotarhino.com/images/posts/banana-cream-pie/header.png)
 
 This is another pie that I attempted for Thanksgiving (I failed to get a picture of it before it was already partly devoured). This was my first attempt at an entirely homemade pie. I found the recipe for old fashioned banana cream pie [here](http://www.food.com/recipe/old-fashioned-banana-cream-pie-14979) and decided it would be fun to make the pie from scratch instead of using banana pudding and cool whip. It definitely takes a bit more time to make, **but the time is worth it!** Everyone loved my pie and it was the first one to disappear.
 
