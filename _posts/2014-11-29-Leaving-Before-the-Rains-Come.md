@@ -6,7 +6,7 @@ category:
 ---
 
 
-I got early access to [Leaving Before the Rains Come](http://www.amazon.com/gp/product/1594205868/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1594205868&linkCode=as2&tag=stephmilla-20&linkId=MC2QHQOEN2O7ZFAQ) by Alexandra Fuller from the Penguin [First to Read](http://www.firsttoread.com/) program. Every month they allow you to enter for a chance to get early access to one of several books that will be coming out in the next couple months. I am a super fan of First to Read. If you haven't already signed up for it and like books, you definitely should. I can attest that it **definitely** worth it! 
+I got early access to [Leaving Before the Rains Come](http://www.amazon.com/gp/product/1594205868/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1594205868&linkCode=as2&tag=stephmilla-20&linkId=MC2QHQOEN2O7ZFAQ) by Alexandra Fuller from the Penguin [First to Read](http://www.firsttoread.com/) program. Every month they allow you to enter for a chance to get early access to an advance galley of one of several books that will be coming out in the next couple months. I am a super fan of First to Read. If you haven't already signed up for it and like books, you definitely should. I can attest that it **definitely** worth it! 
 
 [Leaving Before the Rains Come](http://www.amazon.com/gp/product/1594205868/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1594205868&linkCode=as2&tag=stephmilla-20&linkId=MC2QHQOEN2O7ZFAQ) will be officially released on January 22, 2015. Since this book hasn't been released yet, I'll try my best to avoid any spoilers.  
 
