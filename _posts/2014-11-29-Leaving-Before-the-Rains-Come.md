@@ -7,7 +7,7 @@ category:
 
 ![Leaving Before the Rains Come](http://www.whynotarhino.com/images/posts/leaving-before-the-rains-come/header.png)
 
-I got early access to [Leaving Before the Rains Come](http://www.amazon.com/gp/product/1594205868/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1594205868&linkCode=as2&tag=stephmilla-20&linkId=MC2QHQOEN2O7ZFAQ) from the Penguin [First to Read](http://www.firsttoread.com/) program. Every month Penguin allows users to enter for a chance to read an advance galley of one of several books that will be coming out in the next couple months. First to Read is great! If you like books and haven't already signed up, you definitely should. I can attest that it is **definitely** worth it! 
+I got early access to [Leaving Before the Rains Come](http://www.amazon.com/gp/product/1594205868/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1594205868&linkCode=as2&tag=stephmilla-20&linkId=MC2QHQOEN2O7ZFAQ) from the Penguin [First to Read](http://www.firsttoread.com/) program. Every month Penguin allows users to enter for a chance to read an advance galley of one of several books that will be coming out in the next couple months. First to Read is great! If you like books and haven't already signed up, you  should. I can attest that it is **definitely** worth it! 
 
 [Leaving Before the Rains Come](http://www.amazon.com/gp/product/1594205868/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1594205868&linkCode=as2&tag=stephmilla-20&linkId=MC2QHQOEN2O7ZFAQ) will be officially released on January 22, 2015. Since this book hasn't been released yet, I'll try my best to avoid any spoilers.  
 
