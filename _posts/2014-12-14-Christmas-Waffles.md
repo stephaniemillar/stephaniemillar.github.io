@@ -5,6 +5,8 @@ category:
 - recipe
 ---
 
+![Christmas Waffles](http://www.whynotarhino.com/images/posts/christmas-waffles/header.png)
+
 This is a recipe for Gingerbread Waffles with Vanilla–Orange Butter, which my husband and I have dubbed "Christmas Waffles" because that's exactly what they taste like: **Christmas**. I stumbled upon this recipe [here](http://www.chow.com/recipes/30529-gingerbread-waffles-with-vanilla-bean-and-orange-butter) while searching for something to make with some leftover buttermilk that I had and I am glad I did! It is delicious!
 
 I was initially hesitant to try this recipe because the few comments on the page didn't have great experiences with it, but I decided to try it anyways because my husband was enamored with them. They take a bit more time than regular waffles, but they are wonderful and so worth it. 
@@ -14,9 +16,6 @@ I thought it was strange to bake the waffles after cooking them in the waffle ir
 We do not own a Belgian waffle iron, so we used our regular waffle iron, which means we made **way** more than the estimated 8 waffles  the website says it will make (about 18), but we were okay with that. 
 
 The waffles were delcious and the gingerbread flavor made them taste gourmet. The vanilla-orange butter and maple syrup are **musts** for this recipe. The orange flavor and sugary syrup perfectly complement the bitter flavor of the gingerbread and make it a **perfect** Christmas breakfast.
-
-
-
 
 
 Ingredients
