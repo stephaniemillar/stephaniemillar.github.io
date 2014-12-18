@@ -9,7 +9,7 @@ category:
 
 For those of you who don't know what Swig sugar cookies are, they are **the** best sugar cookies you will ever have. Swig cookies are made by a small business of the same name located in Provo and St. George, Utah. [Swig](http://www.swigstop.com/) is best known for its cookies, which are **fantastic** and definitely worth making. I found this recipe for Swig knock-off cookies [here](http://www.vintagerevivals.com/2013/03/swig-sugar-cookie-recipe-literally-best.html). 
 
-The cookies were super easy to make and taste **just like** Swig cookies. I was super surprised. Most knock-off recipes don't turn out as good as the real thing, but this was not one of them. My husband and I absolutely love them though.
+The cookies were super easy to make and taste **just like** Swig cookies. I was pretty surprised. Most knock-off recipes don't turn out as good as the real thing, but this was not one of them. My husband and I absolutely love them.
 
 Just as a word of caution, this recipe makes **a lot** of cookies. Like, a lot. The couple times that I've made this recipe, we've had to give away plates of cookies to multiple friends and neighbors so that we wouldn't gorge ourselves on mountains of cookies. If you don't want a lot of cookies, you should probably half (or even quarter) the recipe. 
 
