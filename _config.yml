@@ -6,7 +6,7 @@ relative_permalinks:  true
 title:                Why Not a Rhino?
 tagline:          
 url:                  http://www.whynotarhino.com/
-paginate:             3
+paginate:             4
 baseurl:              http://www.whynotarhino.com/
 author:
   name:               Stephanie Millar
