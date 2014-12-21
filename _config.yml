@@ -20,3 +20,5 @@ kramdown:
 
 gems:
   - jekyll-sitemap
+
+truncation_limit:     75
