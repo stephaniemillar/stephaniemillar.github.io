@@ -14,7 +14,7 @@ title: Reviews
 
 			<time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date: "%B %-d, %Y" }}</time>
 
-			{{ post.content | truncatewords: page.truncation_limit}} <a href="{{ post.url }}">(continue reading)</a>
+			{{ post.content | truncatewords: 70}} <a href="{{ post.url }}">(continue reading)</a>
 		</article>
 	{% endfor %}
 </div>
