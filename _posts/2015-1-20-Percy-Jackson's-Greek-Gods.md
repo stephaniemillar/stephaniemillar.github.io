@@ -11,7 +11,7 @@ Everytime I read Riordan, I am absolutely amazed at his ability to get inside th
 
 I have read a **lot** of mythology books in my lifetime, both as a nerdy little girl obsessed with all things mythology and as a college student fascinated with the elements of mythology that pervade today's society. While I love reading about mythology, there is a definitely a large number of mythology textbooks that feel like they're made to put you to sleep. "Percy Jackson's Greek God's" is not one of those books. Where the story is deficient in detail and fact at times (and Riordan acknowledges that), it makes up for in pure entertainment and readability. 
 
-One of my first thoughts after reading the book was how great it would be to introduce my future children into the world of mythology with this book. Riordan has done a beautiful job of melding the beliefs and stories of the ancient world with elements of the modern world today and you can see that in all of his books, but, I think, especially in this one. 
+One of my first thoughts after reading the book was how great it would be to introduce my future children into the world of mythology with this book. Riordan has done a beautiful job of melding the beliefs and stories of the ancient world with elements of the modern world and you can see that in all of his books, but especially in this one. 
 
 "Percy Jackson's Greek Gods" is a book for all ages to acquaint and reacquaint themselves with Greek mythology through the **beautiful** prose of Riordan and the **absolutely wonderful** illustrations that breathe new life into stories that have been around for centuries.    
 
