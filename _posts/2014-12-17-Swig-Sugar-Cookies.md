@@ -16,8 +16,6 @@ Just as a word of caution, this recipe makes **a lot** of cookies. Like, a lot. 
 While the recipe for the actual cookies comes from the website above, the frosting does not. I did not have sour cream the first time I made this (and I don't particularly like sour cream frosting to begin with) so I used my own frosting recipe, which I have included below. I really liked this frosting recipe with the cookies and it still tasted **just** like Swig cookies.
 
 
-
-
 Ingredients
 -----------
  **Sugar Cookies:**  
@@ -38,11 +36,6 @@ Ingredients
 <input type="checkbox"> 1 teaspoon vanilla extract  
 <input type="checkbox"> Food coloring
 
-    
-       
- 
-
-
 
 Instructions
 -----
@@ -61,12 +54,3 @@ Instructions
 1. In a large bowl, cream together the powdered sugar and shortening until smooth. 
 2. Gradually mix in the milk and vanilla with an electric mixer until smooth and stiff, about 5 minutes. 
 3. Color with food coloring if desired.
-
-
-
-
-
-
-
-
-
