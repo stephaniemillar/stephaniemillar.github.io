@@ -5,6 +5,8 @@ category:
 - recipe
 ---
 
+![Lemon Poppy Seed Muffins](http://www.whynotarhino.com/images/posts/lemon-poppy-seed-muffins/header.png)
+
 I fell in love with lemon poppy seed muffins after my husband brought one home for me after a work meeting. My infatuation drove me in pursuit of the most delicious lemon poppy seed recipe I could find. That journey led me [here](http://www.food.com/recipe/lemon-poppy-seed-muffins-100943). I usually modify recipes in one way or another, but this recipe needed no improvements. It's simple, easy, and delicious. In short, **perfect**. If you're a lemon lover, there's no question that you will enjoy it.
 
 
