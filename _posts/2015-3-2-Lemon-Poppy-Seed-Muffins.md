@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Swig Sugar Cookies"
+title: "Lemon Poppy Seed Muffins"
 category:
 - recipe
 ---
