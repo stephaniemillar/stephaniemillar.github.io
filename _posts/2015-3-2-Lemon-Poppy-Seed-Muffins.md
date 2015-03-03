@@ -5,7 +5,7 @@ category:
 - recipe
 ---
 
-I fell in love with lemon poppy seed muffins after my husband brought one home for me after a work meeting. My infatuation drove me in pursuit of the most delicious lemon poppy seed recipe I could find. That journey led me [here](http://www.food.com/recipe/lemon-poppy-seed-muffins-100943). I usually modify recipes in one way or another, but this recipe needed no improvements. It's simple, easy, and delicious. In short, **perfect**. If you're a lemon lover, there's no question that you will love it.
+I fell in love with lemon poppy seed muffins after my husband brought one home for me after a work meeting. My infatuation drove me in pursuit of the most delicious lemon poppy seed recipe I could find. That journey led me [here](http://www.food.com/recipe/lemon-poppy-seed-muffins-100943). I usually modify recipes in one way or another, but this recipe needed no improvements. It's simple, easy, and delicious. In short, **perfect**. If you're a lemon lover, there's no question that you will enjoy it.
 
 
 As a side note, I do recommend using real lemon juice if possible. It makes a **huge** difference in flavor and makes the muffins taste much fresher and lighter. 
