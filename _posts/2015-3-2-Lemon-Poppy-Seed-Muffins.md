@@ -18,16 +18,16 @@ As a side note, I do recommend using real lemon juice if possible. It makes a **
 Ingredients
 -----------
  
-<input type="checkbox"> 1⁄2 cup sweet creamy butter, softened  
-<input type="checkbox"> 2⁄3 cup sugar  
+<input type="checkbox"> 1/2 cup sweet creamy butter, softened  
+<input type="checkbox"> 2/3 cup sugar  
 <input type="checkbox"> 2 large eggs, separated  
-<input type="checkbox"> 1 1⁄3 cups flour  
+<input type="checkbox"> 1 1/3 cups flour  
 <input type="checkbox"> 1 teaspoon baking powder  
-<input type="checkbox"> 1⁄2 teaspoon baking soda  
+<input type="checkbox"> 1/2 teaspoon baking soda  
 <input type="checkbox"> 2 tablespoons poppy seeds  
 <input type="checkbox"> 2 lemons, zest of, grated  
-<input type="checkbox"> 1⁄4 teaspoon salt  
-<input type="checkbox"> 1⁄2 cup buttermilk  
+<input type="checkbox"> 1/4 teaspoon salt  
+<input type="checkbox"> 1/2 cup buttermilk  
 <input type="checkbox"> 2 tablespoons lemon juice  
 <input type="checkbox"> 1 teaspoon vanilla  
   
