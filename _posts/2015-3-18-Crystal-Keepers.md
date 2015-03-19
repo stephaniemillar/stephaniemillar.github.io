@@ -5,6 +5,8 @@ category:
 - review
 ---
 
+![Crystal Keepers](http://www.whynotarhino.com/images/posts/crystal-keepers/header.png)
+
 I have been a **serious** Brandon Mull fan since I fell in love with the world of *Fablehaven* almost ten years ago, and I've enjoyed every one of his books since then. *Crystal Keepers* is his most recent release and is the third book of his latest series *The Five Kingdoms*. This series has a very similar feel to, and occassionally references, Mull's previous series *The Beyonders* (which was also pretty great). 
 
 The story follows an all too familiar pattern: kids from our world end up in an entirely new world with no way to return home and have to face the harsh realities of being strangers in a new and slightly corrupt world. However, this series differs from other Brandon Mull books by involving more than just two main characters from our world. While the story centers on Cole Randolph and his quest to save The Five Kingdoms from a nefarious ruler, it also shows how Cole's friends and classmates have dealt with their individual fates. Because of that we see their different perspectives and different ways of dealing with the shock of being forcefully injected into a new world and culture. 
