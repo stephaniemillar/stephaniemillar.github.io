@@ -5,7 +5,7 @@ category:
 - review
 ---
 
-
+![The Grimm Legacy](http://www.whynotarhino.com/images/posts/the-grimm-legacy/header.png)
 
 The minute I read the synopsis for *The Grimm Legacy*, I knew it was my kind of book. I had never read anything by Polly Shulman, nor had I even heard of her, but man, am I glad I stumbled upon this book. It combines my (at times, unhealthy) obsession with books, libraries, secrets and fairytales with a simple, yet fantastic story that was thoroughly entertaining.  
 
