@@ -5,6 +5,7 @@ category:
 - review
 ---
 
+![All The Light We Cannot See](http://www.whynotarhino.com/images/posts/all-the-light-we-cannot-see/header.png)
 
 Anthony Doerr has intrigued me since I fell in love with his short stories after attending a reading he did at BYU a year or so ago. At the reading, he spoke about writing and what he said definitely inspired me in my own writing. He encouraged everyone to write about what they loved, which in his case was natural history and science. In everything he has written, including *All The Light We Cannot See*, Doerr brings the world of science to life, while not making it the focal point of his stories. **That** is what is so beautiful about his writing. His stories absolutely ooze his enthusiasm for the world of science and natural curiosity, making you, as the reader, feel that same wonder. 
 
